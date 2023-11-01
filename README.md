@@ -10,4 +10,4 @@ An additional purpose of this repository is to standardize the process of learni
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+See [CONTRIBUTING](CONTRIBUTING.md) for details.
